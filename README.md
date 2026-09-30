@@ -4,7 +4,7 @@ Current student at Purdue University studying Computer Science and Artificial In
 
 Interests and focus revolve around software engineering, web development, machine learning, and computer vision. I enjoy hands-on projects that solve real-world problems, and I'm always looking to learn more about working as a team.
 
-Currently developing my technical portfolio and looking for opportunities and projects to apply my skills in Computer Science and the world of technology.
+Currently working on learning more as a student, professionally and technically.
 
 Always looking for connections.
 <br>
